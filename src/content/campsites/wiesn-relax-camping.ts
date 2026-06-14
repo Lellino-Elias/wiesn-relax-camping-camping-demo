@@ -28,7 +28,7 @@ const wiesnRelaxCamping: CampsiteConfig = {
     {
       title: "Freie Platzwahl auf der Wiese",
       text: "Großzügige, ebene und befestigte Stellflächen mit zusätzlicher Wiese von 60–80 m² — du wählst deinen Platz vor Ort frei nach Verfügbarkeit.",
-      image: { src: `${IMG}/gallery-975766dc05.webp`, alt: "Befestigte Stellplätze mit Wiese und Bergblick beim Wiesn-Relax-Camping" },
+      image: { src: `${IMG}/gallery-7adc32f641.webp`, alt: "Stellplätze mit Wohnmobil, grüner Wiese und Bergpanorama beim Wiesn-Relax-Camping" },
     },
     {
       title: "Neuer Sanitärbereich",
