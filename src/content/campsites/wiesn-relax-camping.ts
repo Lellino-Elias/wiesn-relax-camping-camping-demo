@@ -27,17 +27,17 @@ const wiesnRelaxCamping: CampsiteConfig = {
   pillars: [
     {
       title: "Freie Platzwahl auf der Wiese",
-      text: "Großzügige, ebene und befestigte Stellflächen mit zusätzlicher Wiese von 60–80 m² — du wählst deinen Platz vor Ort frei nach Verfügbarkeit.",
+      text: "Großzügige, ebene Stellflächen mit Wiese von 60–80 m² — du wählst deinen Platz frei nach Verfügbarkeit.",
       image: { src: `${IMG}/gallery-7adc32f641.webp`, alt: "Stellplätze mit Wohnmobil, grüner Wiese und Bergpanorama beim Wiesn-Relax-Camping" },
     },
     {
       title: "Neuer Sanitärbereich",
-      text: "Der neue Sanitärbereich bringt Dusche und WC, Strom- und Wasseranschlüsse an jedem Stellplatz und freies WLAN — gepflegt und gleich nebenan.",
+      text: "Dusche, WC, Strom- und Wasseranschluss an jedem Stellplatz und freies WLAN — gepflegt und gleich nebenan.",
       image: { src: `${IMG}/gallery-cbb5483451.webp`, alt: "Neuer Sanitärbereich in Holzoptik beim Wiesn-Relax-Camping" },
     },
     {
       title: "Am Bach, am Radweg",
-      text: "Direkt am Platz rauscht der Rantenbach und führt ein Radweg vorbei — ein willkommener Halt an den Touren über Sölkpass und Obertauern.",
+      text: "Direkt am Platz rauscht der Rantenbach und führt ein Radweg vorbei — ein Halt an Sölkpass-Touren.",
       image: { src: `${IMG}/gallery-bb2b291458.webp`, alt: "Radweg und Rantenbach direkt am Wiesn-Relax-Camping" },
     },
   ],
@@ -78,32 +78,32 @@ const wiesnRelaxCamping: CampsiteConfig = {
     features: [
       {
         title: "Befestigte Stellplätze",
-        text: "Ebene, befestigte Stellflächen mit zusätzlicher Wiese bieten Platz für Wohnmobil, Wohnwagen, Auto und Zelt — Anreise jederzeit, Platzwahl frei.",
+        text: "Befestigte Stellflächen mit Wiese für Wohnmobil, Caravan, Auto und Zelt — Anreise jederzeit, Platzwahl frei.",
         image: { src: `${IMG}/gallery-fa48a9cad3.webp`, alt: "Befestigte Stellplätze auf der Wiese beim Wiesn-Relax-Camping" },
       },
       {
         title: "Strom & Wasser am Platz",
-        text: "An jedem Stellplatz findest du Strom- und Wasseranschluss; Grauwasser- und Toilettenentleerung sowie eine Abwaschmöglichkeit sind gleich vor Ort.",
+        text: "Strom und Wasser an jedem Stellplatz; Grauwasser- und Toilettenentleerung sowie Abwaschmöglichkeit inklusive.",
         image: { src: `${IMG}/gallery-d574536612.webp`, alt: "Stellplatz mit Stromsäule am Wiesn-Relax-Camping" },
       },
       {
         title: "Glamping-Zelt zum Mieten",
-        text: "Für mehr Komfort steht am Platz ein 10 m² großes Glamping-Zelt zur Miete bereit — einfach ankommen, schon steht dein Zuhause auf Zeit.",
+        text: "Ein 10 m² großes Glamping-Zelt steht zur Miete bereit — einfach ankommen, schon steht dein Zuhause.",
         image: { src: `${IMG}/gallery-a5c7a39b71.webp`, alt: "Glamping-Bell-Zelt mit Liegestühlen auf der Wiese des Wiesn-Relax-Camping" },
       },
       {
         title: "Platz für jede Campingform",
-        text: "Vom kurzen Zwischenstopp bis zum längeren Aufenthalt: großzügige Plätze für jede Campingform, auch saisonale Aufenthalte sind auf Anfrage möglich.",
+        text: "Vom kurzen Stopp bis zum längeren Aufenthalt: Platz für jede Campingform, saisonal auf Anfrage möglich.",
         image: { src: `${IMG}/gallery-3d19eab549.webp`, alt: "Wohnmobile und Caravans auf den Stellplätzen beim Wiesn-Relax-Camping" },
       },
       {
         title: "Dein Platz im Grünen",
-        text: "Stell dich mitten ins Grüne: Freies WLAN, Müllentsorgung und die Nutzung der gepflegten Sanitäranlagen sind bei jedem Stellplatz inklusive.",
+        text: "WLAN, Müllentsorgung und die gepflegten Sanitäranlagen sind bei jedem Stellplatz inklusive.",
         image: { src: `${IMG}/gallery-a5ac82adcb.webp`, alt: "Wohnmobil mit Campingstühlen im Grünen beim Wiesn-Relax-Camping" },
       },
       {
         title: "Wohnmobil, Caravan & Zelt",
-        text: "Bei uns stehen Reisemobile, Caravans und Zelte einträchtig auf der Wiese — ein lebendiger, familiär geführter Platz mit Blick auf die bewaldeten Hänge.",
+        text: "Reisemobile, Caravans und Zelte auf der Wiese — familiär geführt, mit Blick auf bewaldete Hänge.",
         image: { src: `${IMG}/gallery-37a74110f7.webp`, alt: "Stellplätze mit Wohnmobil unter blauem Himmel vor bewaldeten Hängen beim Wiesn-Relax-Camping" },
       },
     ],
@@ -116,17 +116,17 @@ const wiesnRelaxCamping: CampsiteConfig = {
     items: [
       {
         title: "Rad & Motorrad",
-        text: "Ideal an den Strecken Sölkpass und Obertauern: ein willkommener Halt für Biker und Radler, mit Radtouren zum Rottenmanner Teich direkt vor der Tür.",
+        text: "Ideal an den Strecken Sölkpass und Obertauern — mit Radtouren zum Rottenmanner Teich direkt vor der Tür.",
         image: { src: `${IMG}/gallery-e330f34fbf.webp`, alt: "E-Bikes an der Ladestation vor Wiese und Bergen beim Wiesn-Relax-Camping" },
       },
       {
         title: "Ankommen & durchatmen",
-        text: "Liegestühle auf der Wiese, Bergblick und klare Luft — wer mag, erkundet von hier die Wanderwege rund um Krakau oder den Badeteich der Nachbargemeinde (8 km).",
+        text: "Liegestühle, Bergblick und klare Luft — oder Wanderwege rund um Krakau und ein Badeteich (8 km) warten.",
         image: { src: `${IMG}/gallery-10eeb32920.webp`, alt: "Liegestuhl auf der Wiese mit Blick auf die bewaldeten Hänge beim Wiesn-Relax-Camping" },
       },
       {
         title: "Verleih & Nahversorgung",
-        text: "Im Sommer leihst du Fahrräder, im Winter Skiausrüstung; nur 500 m entfernt sorgt der Gasthof Hammerschmied, dazu Lebensmittelgeschäft und Kaffeehaus im Ort.",
+        text: "Fahrrad- und Skiverleih vor Ort; Gasthof Hammerschmied, Lebensmittelgeschäft und Kaffeehaus nur 500 m entfernt.",
         image: { src: `${IMG}/gallery-129da409be.webp`, alt: "Infopoint mit Regionsprospekten und Bergblick beim Wiesn-Relax-Camping" },
       },
     ],
