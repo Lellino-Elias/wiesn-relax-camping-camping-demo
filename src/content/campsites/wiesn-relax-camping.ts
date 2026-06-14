@@ -104,7 +104,7 @@ const wiesnRelaxCamping: CampsiteConfig = {
       {
         title: "Wohnmobil, Caravan & Zelt",
         text: "Bei uns stehen Reisemobile, Caravans und Zelte einträchtig auf der Wiese — ein lebendiger, familiär geführter Platz mit Blick auf die bewaldeten Hänge.",
-        image: { src: `${IMG}/gallery-c969cf59d7.webp`, alt: "Campingplatz mit Wohnmobilen und Caravans vor bewaldeten Hängen" },
+        image: { src: `${IMG}/gallery-37a74110f7.webp`, alt: "Stellplätze mit Wohnmobil unter blauem Himmel vor bewaldeten Hängen beim Wiesn-Relax-Camping" },
       },
     ],
   },
@@ -117,7 +117,7 @@ const wiesnRelaxCamping: CampsiteConfig = {
       {
         title: "Rad & Motorrad",
         text: "Ideal an den Strecken Sölkpass und Obertauern: ein willkommener Halt für Biker und Radler, mit Radtouren zum Rottenmanner Teich direkt vor der Tür.",
-        image: { src: `${IMG}/gallery-90c44843b5.webp`, alt: "Zwei Gäste planen ihre Tour vor dem Caravan am Wiesn-Relax-Camping" },
+        image: { src: `${IMG}/gallery-e330f34fbf.webp`, alt: "E-Bikes an der Ladestation vor Wiese und Bergen beim Wiesn-Relax-Camping" },
       },
       {
         title: "Ankommen & durchatmen",
@@ -127,7 +127,7 @@ const wiesnRelaxCamping: CampsiteConfig = {
       {
         title: "Verleih & Nahversorgung",
         text: "Im Sommer leihst du Fahrräder, im Winter Skiausrüstung; nur 500 m entfernt sorgt der Gasthof Hammerschmied, dazu Lebensmittelgeschäft und Kaffeehaus im Ort.",
-        image: { src: `${IMG}/gallery-44ea831757.webp`, alt: "Infopoint mit Prospekten am Sanitärgebäude des Wiesn-Relax-Camping" },
+        image: { src: `${IMG}/gallery-129da409be.webp`, alt: "Infopoint mit Regionsprospekten und Bergblick beim Wiesn-Relax-Camping" },
       },
     ],
   },
@@ -155,7 +155,7 @@ const wiesnRelaxCamping: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-a1f17b4a0c.webp`, alt: "Gäste entspannen in Liegestühlen am Sanitärgebäude des Wiesn-Relax-Camping" },
       { src: `${IMG}/gallery-456f4709f6.webp`, alt: "Abendlicht über dem Campingplatz und dem Murautal" },
-      { src: `${IMG}/gallery-129da409be.webp`, alt: "Blick von einem Platz über die Wiese auf die Berge rund um Ranten" },
+      { src: `${IMG}/gallery-61f9e8df92.webp`, alt: "Sonniger Blick über die Stellplätze auf die Berge rund um Ranten" },
       { src: `${IMG}/gallery-33e1825ce2.webp`, alt: "Willkommen-Schild mit blühendem Oleander am Wiesn-Relax-Camping" },
     ],
   },
